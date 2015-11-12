@@ -1,0 +1,12 @@
+rootProject.name = 'mydummy'
+
+include 'dummy-web'
+
+include 'dummy-domain'
+
+include 'dummy-adapter'
+
+include 'dummy-batch'
+
+include 'dummy-interface'
+
